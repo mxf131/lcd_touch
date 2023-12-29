@@ -56,7 +56,9 @@ E:/ESP/ESP32/lcd_touch/build/esp-idf/json/libjson.a
 E:/ESP/ESP32/lcd_touch/build/esp-idf/mqtt/libmqtt.a
 E:/ESP/ESP32/lcd_touch/build/esp-idf/perfmon/libperfmon.a
 E:/ESP/ESP32/lcd_touch/build/esp-idf/spiffs/libspiffs.a
+E:/ESP/ESP32/lcd_touch/build/esp-idf/touch_element/libtouch_element.a
 E:/ESP/ESP32/lcd_touch/build/esp-idf/ulp/libulp.a
+E:/ESP/ESP32/lcd_touch/build/esp-idf/usb/libusb.a
 E:/ESP/ESP32/lcd_touch/build/esp-idf/wifi_provisioning/libwifi_provisioning.a
 E:/ESP/ESP32/lcd_touch/build/esp-idf/espressif__esp_lcd_ili9341/libespressif__esp_lcd_ili9341.a
 E:/ESP/ESP32/lcd_touch/build/esp-idf/espressif__esp_lcd_touch/libespressif__esp_lcd_touch.a

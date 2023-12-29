@@ -10,6 +10,9 @@ E:/ESP/ESP32/lcd_touch/build/bootloader/CMakeFiles/bootloader.elf.dir
 E:/ESP/ESP32/lcd_touch/build/bootloader/CMakeFiles/size.dir
 E:/ESP/ESP32/lcd_touch/build/bootloader/CMakeFiles/size-files.dir
 E:/ESP/ESP32/lcd_touch/build/bootloader/CMakeFiles/size-components.dir
+E:/ESP/ESP32/lcd_touch/build/bootloader/CMakeFiles/dfu.dir
+E:/ESP/ESP32/lcd_touch/build/bootloader/CMakeFiles/dfu-list.dir
+E:/ESP/ESP32/lcd_touch/build/bootloader/CMakeFiles/dfu-flash.dir
 E:/ESP/ESP32/lcd_touch/build/bootloader/CMakeFiles/uf2-app.dir
 E:/ESP/ESP32/lcd_touch/build/bootloader/CMakeFiles/uf2.dir
 E:/ESP/ESP32/lcd_touch/build/bootloader/CMakeFiles/edit_cache.dir
@@ -24,8 +27,8 @@ E:/ESP/ESP32/lcd_touch/build/bootloader/esp-idf/newlib/CMakeFiles/rebuild_cache.
 E:/ESP/ESP32/lcd_touch/build/bootloader/esp-idf/soc/CMakeFiles/__idf_soc.dir
 E:/ESP/ESP32/lcd_touch/build/bootloader/esp-idf/soc/CMakeFiles/edit_cache.dir
 E:/ESP/ESP32/lcd_touch/build/bootloader/esp-idf/soc/CMakeFiles/rebuild_cache.dir
-E:/ESP/ESP32/lcd_touch/build/bootloader/esp-idf/soc/esp32/CMakeFiles/edit_cache.dir
-E:/ESP/ESP32/lcd_touch/build/bootloader/esp-idf/soc/esp32/CMakeFiles/rebuild_cache.dir
+E:/ESP/ESP32/lcd_touch/build/bootloader/esp-idf/soc/esp32s3/CMakeFiles/edit_cache.dir
+E:/ESP/ESP32/lcd_touch/build/bootloader/esp-idf/soc/esp32s3/CMakeFiles/rebuild_cache.dir
 E:/ESP/ESP32/lcd_touch/build/bootloader/esp-idf/micro-ecc/CMakeFiles/__idf_micro-ecc.dir
 E:/ESP/ESP32/lcd_touch/build/bootloader/esp-idf/micro-ecc/CMakeFiles/edit_cache.dir
 E:/ESP/ESP32/lcd_touch/build/bootloader/esp-idf/micro-ecc/CMakeFiles/rebuild_cache.dir
@@ -56,8 +59,8 @@ E:/ESP/ESP32/lcd_touch/build/bootloader/esp-idf/esp_system/CMakeFiles/rebuild_ca
 E:/ESP/ESP32/lcd_touch/build/bootloader/esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir
 E:/ESP/ESP32/lcd_touch/build/bootloader/esp-idf/esp_hw_support/CMakeFiles/edit_cache.dir
 E:/ESP/ESP32/lcd_touch/build/bootloader/esp-idf/esp_hw_support/CMakeFiles/rebuild_cache.dir
-E:/ESP/ESP32/lcd_touch/build/bootloader/esp-idf/esp_hw_support/port/esp32/CMakeFiles/edit_cache.dir
-E:/ESP/ESP32/lcd_touch/build/bootloader/esp-idf/esp_hw_support/port/esp32/CMakeFiles/rebuild_cache.dir
+E:/ESP/ESP32/lcd_touch/build/bootloader/esp-idf/esp_hw_support/port/esp32s3/CMakeFiles/edit_cache.dir
+E:/ESP/ESP32/lcd_touch/build/bootloader/esp-idf/esp_hw_support/port/esp32s3/CMakeFiles/rebuild_cache.dir
 E:/ESP/ESP32/lcd_touch/build/bootloader/esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir
 E:/ESP/ESP32/lcd_touch/build/bootloader/esp-idf/esp_common/CMakeFiles/edit_cache.dir
 E:/ESP/ESP32/lcd_touch/build/bootloader/esp-idf/esp_common/CMakeFiles/rebuild_cache.dir
